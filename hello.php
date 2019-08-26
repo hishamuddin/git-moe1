@@ -1,4 +1,5 @@
 <?php
-echo "Hello Worlds!!";
-
+//komen
+echo "Hello World!!";
+echo "End";
 ?>
